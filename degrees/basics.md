@@ -4,3 +4,5 @@ Install the data through:
 wget https://cdn.cs50.net/ai/2023/x/projects/0/degrees.zip
 unzip degrees.zip
 ```
+
+The code contains an implementation using BFS.

@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Cs50 AI projects
+degrees/small/
+degrees/large/
