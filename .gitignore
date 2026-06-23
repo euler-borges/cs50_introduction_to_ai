@@ -221,3 +221,5 @@ __marimo__/
 degrees/small/
 degrees/large/
 experiments.py
+
+gtsrb/
